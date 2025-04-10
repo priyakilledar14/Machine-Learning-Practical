@@ -1,0 +1,36 @@
+C:\Users\priya\OneDrive\Desktop\MSA PRACT\REST API\REST API\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\priya\OneDrive\Desktop\MSA PRACT\REST API\REST API\bin\Debug\net8.0\appsettings.json
+C:\Users\priya\OneDrive\Desktop\MSA PRACT\REST API\REST API\bin\Debug\net8.0\REST API.staticwebassets.endpoints.json
+C:\Users\priya\OneDrive\Desktop\MSA PRACT\REST API\REST API\bin\Debug\net8.0\REST API.exe
+C:\Users\priya\OneDrive\Desktop\MSA PRACT\REST API\REST API\bin\Debug\net8.0\REST API.deps.json
+C:\Users\priya\OneDrive\Desktop\MSA PRACT\REST API\REST API\bin\Debug\net8.0\REST API.runtimeconfig.json
+C:\Users\priya\OneDrive\Desktop\MSA PRACT\REST API\REST API\bin\Debug\net8.0\REST API.dll
+C:\Users\priya\OneDrive\Desktop\MSA PRACT\REST API\REST API\bin\Debug\net8.0\REST API.pdb
+C:\Users\priya\OneDrive\Desktop\MSA PRACT\REST API\REST API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\priya\OneDrive\Desktop\MSA PRACT\REST API\REST API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\priya\OneDrive\Desktop\MSA PRACT\REST API\REST API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\priya\OneDrive\Desktop\MSA PRACT\REST API\REST API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\priya\OneDrive\Desktop\MSA PRACT\REST API\REST API\obj\Debug\net8.0\REST API.csproj.AssemblyReference.cache
+C:\Users\priya\OneDrive\Desktop\MSA PRACT\REST API\REST API\obj\Debug\net8.0\REST API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\priya\OneDrive\Desktop\MSA PRACT\REST API\REST API\obj\Debug\net8.0\REST API.AssemblyInfoInputs.cache
+C:\Users\priya\OneDrive\Desktop\MSA PRACT\REST API\REST API\obj\Debug\net8.0\REST API.AssemblyInfo.cs
+C:\Users\priya\OneDrive\Desktop\MSA PRACT\REST API\REST API\obj\Debug\net8.0\REST API.csproj.CoreCompileInputs.cache
+C:\Users\priya\OneDrive\Desktop\MSA PRACT\REST API\REST API\obj\Debug\net8.0\REST API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\priya\OneDrive\Desktop\MSA PRACT\REST API\REST API\obj\Debug\net8.0\REST API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\priya\OneDrive\Desktop\MSA PRACT\REST API\REST API\obj\Debug\net8.0\scopedcss\bundle\REST API.styles.css
+C:\Users\priya\OneDrive\Desktop\MSA PRACT\REST API\REST API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\priya\OneDrive\Desktop\MSA PRACT\REST API\REST API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\priya\OneDrive\Desktop\MSA PRACT\REST API\REST API\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\priya\OneDrive\Desktop\MSA PRACT\REST API\REST API\obj\Debug\net8.0\staticwebassets\msbuild.REST API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\priya\OneDrive\Desktop\MSA PRACT\REST API\REST API\obj\Debug\net8.0\staticwebassets\msbuild.REST API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\priya\OneDrive\Desktop\MSA PRACT\REST API\REST API\obj\Debug\net8.0\staticwebassets\msbuild.build.REST API.props
+C:\Users\priya\OneDrive\Desktop\MSA PRACT\REST API\REST API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.REST API.props
+C:\Users\priya\OneDrive\Desktop\MSA PRACT\REST API\REST API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.REST API.props
+C:\Users\priya\OneDrive\Desktop\MSA PRACT\REST API\REST API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\priya\OneDrive\Desktop\MSA PRACT\REST API\REST API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\priya\OneDrive\Desktop\MSA PRACT\REST API\REST API\obj\Debug\net8.0\REST API.csproj.Up2Date
+C:\Users\priya\OneDrive\Desktop\MSA PRACT\REST API\REST API\obj\Debug\net8.0\REST API.dll
+C:\Users\priya\OneDrive\Desktop\MSA PRACT\REST API\REST API\obj\Debug\net8.0\refint\REST API.dll
+C:\Users\priya\OneDrive\Desktop\MSA PRACT\REST API\REST API\obj\Debug\net8.0\REST API.pdb
+C:\Users\priya\OneDrive\Desktop\MSA PRACT\REST API\REST API\obj\Debug\net8.0\REST API.genruntimeconfig.cache
+C:\Users\priya\OneDrive\Desktop\MSA PRACT\REST API\REST API\obj\Debug\net8.0\ref\REST API.dll
